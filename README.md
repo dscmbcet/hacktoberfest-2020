@@ -1,4 +1,4 @@
-
+<img src="images/banner2.png">
 ---
 # [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/)
 
