@@ -2,6 +2,10 @@
 ---
 # [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/)
 
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mll-akn8Gqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # What is HacktoberFest
  Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
@@ -29,13 +33,3 @@
 # How to rebase and update Pull Request
 [Rebasing and Updating Pull Request](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
 
-
-<div align="center">
-<h1 align="center">Social Handle</h1>
-  <a href="https://www.instagram.com/dscmbcet/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="https://twitter.com/dscmbcet" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-  <a href="https://www.youtube.com/dscmbcet" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-  <a href="mailto: dscmbcet@gmail.com" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
-
-
-</div>
