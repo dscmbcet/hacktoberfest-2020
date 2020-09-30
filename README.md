@@ -2,10 +2,6 @@
 ---
 # [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/)
 
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mll-akn8Gqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 # What is HacktoberFest
  Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
