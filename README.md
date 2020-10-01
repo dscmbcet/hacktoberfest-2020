@@ -1,6 +1,10 @@
 <img src="images/banner2.png">
+
 ---
+
 # [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/)
+
+[![Hacktoberfest 2020](http://img.youtube.com/vi/mll-akn8Gqs/0.jpg)](http://www.youtube.com/watch?v=mll-akn8Gqs "Hacktoberfest 2020")
 
 # What is HacktoberFest
  Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
